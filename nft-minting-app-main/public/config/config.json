@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcA496d085420f873e7001C88cFa00956553d7b0C",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xca496d085420f873e7001c88cfa00956553d7b0c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Fragmented Collection Test",
+  "SYMBOL": "TFCT",
+  "MAX_SUPPLY": 323,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-fragmented-collection-test",
+  "SHOW_BACKGROUND": true
+}
